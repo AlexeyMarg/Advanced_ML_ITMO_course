@@ -2,3 +2,5 @@
 /homework/dataset_generator
 params.txt
 *.png
+*.csv
+*.txt
